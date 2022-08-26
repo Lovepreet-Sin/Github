@@ -18,5 +18,5 @@
 - *Easy evaluation of each others work*
 
 3. **Difference between git and github?**
-- **Git:** *It is a revision control system, a tool to manage your source code history. Installed and maintained in your local system.*</br>
+- **Git:** *It is a version control system, a tool to manage your source code history. Installed and maintained in your local system.*</br>
 - **Github:** *It is a hosting service for git repositories. Exclusively cloud-based. Github is the service for projects that use git.*
